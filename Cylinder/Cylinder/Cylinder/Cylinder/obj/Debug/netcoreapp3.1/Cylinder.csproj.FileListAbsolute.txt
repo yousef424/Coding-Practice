@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.exe
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.deps.json
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.dll
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\bin\Debug\netcoreapp3.1\Cylinder.pdb
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.dll
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.pdb
+C:\Users\User\Desktop\C# projects\Cylinder\Cylinder\obj\Debug\netcoreapp3.1\Cylinder.genruntimeconfig.cache
