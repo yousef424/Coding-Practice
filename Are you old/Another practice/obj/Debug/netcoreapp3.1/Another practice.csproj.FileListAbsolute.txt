@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.exe
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.deps.json
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.dll
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\bin\Debug\netcoreapp3.1\Another practice.pdb
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.dll
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.pdb
+C:\Users\User\Desktop\C# projects\Another practice\Another practice\obj\Debug\netcoreapp3.1\Another practice.genruntimeconfig.cache

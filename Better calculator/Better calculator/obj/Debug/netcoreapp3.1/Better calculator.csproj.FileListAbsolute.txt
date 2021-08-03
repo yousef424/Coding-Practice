@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.exe
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.deps.json
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.dll
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\bin\Debug\netcoreapp3.1\Better calculator.pdb
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.dll
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.pdb
+C:\Users\User\Desktop\C# projects\Better calculator\Better calculator\obj\Debug\netcoreapp3.1\Better calculator.genruntimeconfig.cache
