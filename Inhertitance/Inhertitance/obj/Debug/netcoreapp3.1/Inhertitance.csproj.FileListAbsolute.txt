@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.exe
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.deps.json
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.dll
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\bin\Debug\netcoreapp3.1\Inhertitance.pdb
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.dll
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.pdb
+C:\Users\User\Desktop\C# projects\Inhertitance\Inhertitance\obj\Debug\netcoreapp3.1\Inhertitance.genruntimeconfig.cache
