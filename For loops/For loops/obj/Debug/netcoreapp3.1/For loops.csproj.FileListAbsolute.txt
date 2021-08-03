@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.exe
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.deps.json
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.dll
+C:\Users\User\Desktop\C# projects\For loops\For loops\bin\Debug\netcoreapp3.1\For loops.pdb
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.dll
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.pdb
+C:\Users\User\Desktop\C# projects\For loops\For loops\obj\Debug\netcoreapp3.1\For loops.genruntimeconfig.cache
