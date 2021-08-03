@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.exe
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.deps.json
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.runtimeconfig.json
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.dll
+C:\Users\User\Desktop\C# projects\if statments\if statments\bin\Debug\netcoreapp3.1\if statments.pdb
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.dll
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.pdb
+C:\Users\User\Desktop\C# projects\if statments\if statments\obj\Debug\netcoreapp3.1\if statments.genruntimeconfig.cache
