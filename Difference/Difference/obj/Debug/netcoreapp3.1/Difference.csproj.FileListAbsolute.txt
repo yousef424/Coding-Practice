@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.exe
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.deps.json
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.json
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.dll
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.pdb
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfo.cs
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.dll
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.pdb
+C:\Users\User\Desktop\Real C# Projects\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.genruntimeconfig.cache
