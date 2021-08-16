@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.exe
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.runtimeconfig.json
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\User\source\repos\MyLibrary\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\User\source\repos\MyLibrary\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.genruntimeconfig.cache
