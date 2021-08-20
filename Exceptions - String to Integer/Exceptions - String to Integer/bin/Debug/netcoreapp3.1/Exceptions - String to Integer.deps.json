@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exceptions - String to Integer/1.0.0": {
+        "dependencies": {
+          "DotLiquid": "2.2.518"
+        },
+        "runtime": {
+          "Exceptions - String to Integer.dll": {}
+        }
+      },
+      "DotLiquid/2.2.518": {
+        "runtime": {
+          "lib/netstandard2.0/DotLiquid.dll": {
+            "assemblyVersion": "2.2.518.0",
+            "fileVersion": "2.2.518.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/it/DotLiquid.resources.dll": {
+            "locale": "it"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceptions - String to Integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotLiquid/2.2.518": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gOxn6J14nFQ2KIhGJzkTZM7mkBMMeFw/ucSNc+b7RLEugDfDXvlKzT61sghxYY4FsHPnuwOzar/buVX1qIlwVQ==",
+      "path": "dotliquid/2.2.518",
+      "hashPath": "dotliquid.2.2.518.nupkg.sha512"
+    }
+  }
+}
