@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.exe
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.deps.json
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.runtimeconfig.json
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.dll
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\bin\Debug\netcoreapp3.1\AdvancedArithmetic.pdb
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.AssemblyInfo.cs
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.dll
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.pdb
+C:\Users\User\Desktop\Real C# Projects\AdvancedArithmetic\AdvancedArithmetic\obj\Debug\netcoreapp3.1\AdvancedArithmetic.genruntimeconfig.cache
