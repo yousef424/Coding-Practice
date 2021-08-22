@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.exe
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.deps.json
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.json
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.dll
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\bin\Debug\netcoreapp3.1\InterfaceTest.pdb
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfo.cs
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.dll
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.pdb
+C:\Users\User\Desktop\Real C# Projects\InterfaceTest\InterfaceTest\obj\Debug\netcoreapp3.1\InterfaceTest.genruntimeconfig.cache
