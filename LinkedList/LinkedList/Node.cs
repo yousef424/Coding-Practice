@@ -6,9 +6,9 @@ namespace LinkedList
 {
     class Node
     {
-         int data;
-         Node next;
-         Node previous;
+        public int data;
+         public Node next;
+        public Node previous;
 
         public Node(int mydata)
         {

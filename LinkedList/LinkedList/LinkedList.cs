@@ -22,7 +22,7 @@ namespace LinkedList
             Node temp = new Node(data);
             if (head == null)
             {
-                head.SetNext(temp);
+                head = temp;
             }
 
             Node current = head;
