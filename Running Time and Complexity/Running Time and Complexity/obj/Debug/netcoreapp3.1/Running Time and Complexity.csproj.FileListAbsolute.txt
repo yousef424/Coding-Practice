@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.exe
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.deps.json
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.runtimeconfig.json
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.dll
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\bin\Debug\netcoreapp3.1\Running Time and Complexity.pdb
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.AssemblyInfo.cs
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.dll
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.pdb
+C:\Users\User\Desktop\Real C# Projects\Running Time and Complexity\Running Time and Complexity\obj\Debug\netcoreapp3.1\Running Time and Complexity.genruntimeconfig.cache
