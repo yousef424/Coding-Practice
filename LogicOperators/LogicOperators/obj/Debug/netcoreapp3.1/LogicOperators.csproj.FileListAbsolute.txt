@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.AssemblyInfo.cs
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.exe
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.deps.json
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.runtimeconfig.json
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.dll
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.pdb
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.dll
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.pdb
+C:\Users\User\Desktop\Real C# Projects\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.genruntimeconfig.cache
